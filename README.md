@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Gamer | Learning ML
+I like building small projects and trying new things.
 <!--
 **sunmukh-g/sunmukh-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
