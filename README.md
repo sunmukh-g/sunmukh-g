@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://giffiles.alphacoders.com/147/thumb-440-147392.mp4" alt="Banner" width="100%" />
+<img src="https://giffiles.alphacoders.com/147/147392.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning System design , SQL
