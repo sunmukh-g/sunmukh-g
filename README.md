@@ -1,74 +1,110 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Shanmukh</h1>
-<h3 align="center">Full stack developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sunmukh-g">
-    <img src="https://komarev.com/ghpvc/?username=sunmukh-g&label=Profile%20views&color=00FFFF&style=flat-square" alt="sunmukh-g's profile views" />
-  </a>
-</p>
+# Shanmukh Gupta
 
-<img src="https://giffiles.alphacoders.com/147/147392.gif" alt="Banner" width="100%" />
+### Backend Developer · Django & REST API Architecture
 
-## 📌 About Me
-- 🌱 I’m currently learning System design , SQL
+[![Email](https://img.shields.io/badge/Email-shanmukhgupta%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shanmukhgupta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shanmukh--gupta-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh-gupta)
+[![GitHub](https://img.shields.io/badge/GitHub-sunmukh--g-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/sunmukh-g)
 
+📍 Bengaluru, Karnataka, India
 
-## 🛠️ Languages & Tools
+</div>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+<br>
 
-</p>
+## About
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+Backend Developer specializing in **Django** and **REST API architecture**, with a strong academic grounding in **parallel computing** and **distributed systems**. I design optimized relational schemas and secure data pipelines that deliver low-latency operations and system scalability — bridging theory with production-ready solutions.
 
-</p>
+<br>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+## Tech Stack
 
-</p>
+<div align="center">
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-</p>
+**Frameworks & Backend**
+<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20API%20Design-005571?style=flat-square)
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+**Database**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Schema Design](https://img.shields.io/badge/Schema%20Optimization-1f6f43?style=flat-square)
+![Indexing](https://img.shields.io/badge/Database%20Indexing-1f6f43?style=flat-square)
 
-</p>
+**Architecture & ML**
+<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-444444?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Concurrency-444444?style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/sunmukh-g">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunmukh-g&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shanmukh-gupta/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/shanmukh_gupta">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:shanmukhgupta7@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+</div>
 
+<br>
+
+## Featured Projects
+
+### 🌾 Crop Advisor — AI-Powered Farming Assistant
+`Django` `Python` `Gemini API` `MySQL`
+
+A full-stack web application delivering localized, real-time agricultural advice, maintaining **99.9% uptime**. Integrated the **Gemini AI API** to power a context-aware chatbot, cutting decision-making latency by **30%**, and built a dynamic Government Schemes hub aggregating state policies in real time.
+
+### 🧑‍💻 Face Recognition Attendance System
+`Python` `OpenCV (LBPH)` `Django` `MySQL`
+
+A secure attendance system using live webcam capture and **OpenCV's LBPH algorithm**, achieving **95%+ recognition accuracy**. Automated real-time attendance logging, cutting manual entry by **80%** and doubling report generation speed through optimized logging schemas.
+
+<br>
+
+## Experience
+
+**Independent Backend Developer** · *2025 – Present*
+- Built end-to-end CRUD applications with clean separation of concerns, improving maintainability by **40%**
+- Authored technical write-ups on system design principles and architectural decisions
+- Applied database indexing and query optimization to improve API response times
+
+<br>
+
+## Education
+
+**Mangalore Marine College and Technology (MMCT)** · *2022 – Present*
+Bachelor of Engineering in Computer Science and Engineering
+*Coursework: Parallel Computing · Distributed Systems · Big Data Analytics · Web Development · Database Management*
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunmukh-g&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmukh-g&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 Reach me at **shanmukhgupta@gmail.com**
+
+</div>
