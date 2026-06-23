@@ -1,12 +1,12 @@
 <div align="center">
 
-# Shanmukh Gupta
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%26+REST+API+Architect;Building+Scalable+Systems" alt="Typing SVG" />
 
-### Backend Developer · Django & REST API Architecture
+<br>
 
-[![Email](https://img.shields.io/badge/Email-shanmukhgupta%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shanmukhgupta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shanmukh--gupta-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh-gupta)
-[![GitHub](https://img.shields.io/badge/GitHub-sunmukh--g-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/sunmukh-g)
+[![Email](https://img.shields.io/badge/-shanmukhgupta%40gmail.com-2F81F7?style=flat-square&logo=gmail&logoColor=white)](mailto:shanmukhgupta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-shanmukh--gupta-2F81F7?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh-gupta)
+[![GitHub](https://img.shields.io/badge/-sunmukh--g-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/sunmukh-g)
 
 📍 Bengaluru, Karnataka, India
 
@@ -14,90 +14,76 @@
 
 <br>
 
-## About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</picture>
 
-Backend Developer specializing in **Django** and **REST API architecture**, with a strong academic grounding in **parallel computing** and **distributed systems**. I design optimized relational schemas and secure data pipelines that deliver low-latency operations and system scalability — bridging theory with production-ready solutions.
+### 👋 About Me
+
+Backend Developer specializing in **Django** and **REST API architecture**, with strong academic grounding in **parallel computing** and **distributed systems**. I design optimized relational schemas and secure data pipelines that deliver low-latency operations and system scalability — bridging theory with production-ready solutions.
 
 <br>
 
-## Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 **Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Backend**
-<br>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API%20Design-005571?style=flat-square)
+</td>
+    <td valign="top" width="33%">
 
-**Database**
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Schema Design](https://img.shields.io/badge/Schema%20Optimization-1f6f43?style=flat-square)
-![Indexing](https://img.shields.io/badge/Database%20Indexing-1f6f43?style=flat-square)
+**Backend & Database**
+<br><br>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-**Architecture & ML**
-<br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-444444?style=flat-square)
-![Concurrency](https://img.shields.io/badge/Concurrency-444444?style=flat-square)
+</td>
+    <td valign="top" width="33%">
 
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Tools & ML**
+<br><br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-## Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</picture>
 
-### 🌾 Crop Advisor — AI-Powered Farming Assistant
-`Django` `Python` `Gemini API` `MySQL`
-
-A full-stack web application delivering localized, real-time agricultural advice, maintaining **99.9% uptime**. Integrated the **Gemini AI API** to power a context-aware chatbot, cutting decision-making latency by **30%**, and built a dynamic Government Schemes hub aggregating state policies in real time.
-
-### 🧑‍💻 Face Recognition Attendance System
-`Python` `OpenCV (LBPH)` `Django` `MySQL`
-
-A secure attendance system using live webcam capture and **OpenCV's LBPH algorithm**, achieving **95%+ recognition accuracy**. Automated real-time attendance logging, cutting manual entry by **80%** and doubling report generation speed through optimized logging schemas.
-
-<br>
-
-## Experience
-
-**Independent Backend Developer** · *2025 – Present*
-- Built end-to-end CRUD applications with clean separation of concerns, improving maintainability by **40%**
-- Authored technical write-ups on system design principles and architectural decisions
-- Applied database indexing and query optimization to improve API response times
-
-<br>
-
-## Education
-
-**Mangalore Marine College and Technology (MMCT)** · *2022 – Present*
-Bachelor of Engineering in Computer Science and Engineering
-*Coursework: Parallel Computing · Distributed Systems · Big Data Analytics · Web Development · Database Management*
-
-<br>
-
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunmukh-g&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmukh-g&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sunmukh-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmukh-g&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunmukh-g&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -105,6 +91,16 @@ Bachelor of Engineering in Computer Science and Engineering
 
 <div align="center">
 
-📫 Reach me at **shanmukhgupta@gmail.com**
+### 📫 Let's Connect
+
+Always open to discussing backend systems, API design, or interesting engineering problems.
+
+<a href="mailto:shanmukhgupta@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sunmukh-g&color=2F81F7&style=flat-square&label=Profile+Views)
 
 </div>
